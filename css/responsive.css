@@ -1,0 +1,227 @@
+
+@media only screen and (max-width: 991px) {
+    h1 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    h2{
+        font-size: 35px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    h4{
+        font-size: 26px;
+    }
+    h5{
+        font-size: 20px;
+    }
+    h6{
+        font-size: 18px;
+    }
+    .padding-top {
+        padding-top: 40px;
+    }
+    .slider-dec{
+        width: 100%;
+    }
+    .btn-default {
+        max-width: 115px;
+        min-width: 110px;
+        padding: 5px;
+        font-size: 17px;
+    }
+    .slider-btn{
+        justify-content: space-between;
+    }
+    .navbar-collapse{
+        background: #ffffff;
+    }
+    ul.navbar-nav li {
+        padding: 10px 0px;
+    }
+    .navbar {
+        background: #fff;
+        padding: 15px 0px;
+    }
+    /* experince */
+    .experience-left {
+        position: relative;
+        align-items: center;
+    }
+    .experience-left h3 {
+        font-size: 65px;
+    }
+    .experience-box {
+        flex-direction: column;
+    }
+    
+    .experience-right {
+        margin: 10px 0px 0px;
+        padding: 25px;
+    }
+    .experience-box::before{
+        top: 55%;
+    }
+    /* edcuation */
+    .education-box {
+        padding: 30px;
+    }
+    /* contact */
+    .btn-contact{
+        max-width: 245px;
+        min-width: 220px;
+        height: 70px;
+        border-radius: 20px;
+        font-size: 23px;
+    }
+    /* work */
+    .work-top {
+        padding-top: 0px;
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: center;
+    }
+    .work-top .work-box{
+        max-width: 48%;
+        width: 100%;
+    }
+    .portfolio-grid .portfolio {
+
+        width: 50%;
+    }
+    .navbar-brand {
+        width: 50px;
+    }
+    .contact-me-box {
+       left: auto;
+        bottom: -50px;
+        right: 0;
+        width: 170px;
+        height: 170px;
+        border: 4px solid #ffffff;
+    }
+    .contact-mail-round {
+        width: 50px;
+        height: 50px;
+    }
+    .contact-me-box i {
+        font-size: 20px;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    h1 {
+        font-size: 40px;
+        margin-bottom: 10px;
+    }
+    h2{
+        font-size: 35px;
+    }
+    h3{
+        font-size: 32px;
+    }
+    h4 {
+        font-size: 23px;
+        line-height: initial;
+    }
+    h5{
+        font-size: 20px;
+    }
+    h6{
+        font-size: 18px;
+    }
+    body{
+        font-size: 16px;
+    }
+    
+    .padding-top {
+        padding-top: 30px;
+    }
+    .container {
+        width:100%;
+    }
+    section:not(.nav-slider), footer {
+        padding-top: 60px;
+    }
+    /* slider */
+    .slider-dec p {
+        font-size: 14px;
+    }
+    .contact-me-box {
+        bottom: 0%;
+        left: 67%;
+        width: 100px;
+        height: 100px;
+        border: 2px solid #ffffff;
+       
+    }
+    .contact-me-box h6{
+        font-size: 12px;
+        margin-bottom:0px;
+    }
+    .contact-mail-round {
+        width: 30px;
+        height: 30px;
+    }
+    .contact-me-box i {
+        font-size: 14px;
+    }
+    .slider-follow {
+   
+        bottom: 0px;
+       
+        border-radius: 0px;
+        margin-bottom: 0;
+        width: 100%;
+        padding-left: 0px;
+    }
+    .slider-follow-box {
+        justify-content: center;
+        display: flex;
+    }
+    .slider-img-box {
+        margin-top: 30px;
+    }
+    .slider-follow-box li a {
+        width: 45px;
+        height: 45px;
+        border: 1px solid #FFFFFF;
+    }
+    /* education */
+   
+    .education-box {
+        padding: 20px;
+    }
+    .education-box::before, .education-box:after{
+        width: 11px;
+    }
+    /* work */
+    .work-img {
+        margin-bottom: 10px;
+       
+    }
+    .work-box {
+        margin-bottom: 40px;
+    }
+    .work-top .work-box{
+        max-width: 100%;
+        width: 100%;
+    }
+    .work-dec {
+        margin-top: 20px;
+    }
+    .work-dec span{
+        margin-bottom: 5px;
+        display: block;
+    }
+    
+.portfolio-grid .portfolio {
+    width: 100%;
+}
+   /* footer */
+   footer {
+    margin-bottom: 10px;
+}
+}

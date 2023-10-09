@@ -1,0 +1,199 @@
+[
+  {
+    "category": "React",
+    "link": "https://amikevadiya.github.io/CMMaster/",
+    "imageSrc": "assets/images/work/work-32.png",
+    "altText": "CMMaster",
+    "title": "Game Guide"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-6.png",
+    "altText": "Beauty",
+    "title": "Beauty",
+    "Fullimg" :"assets/images/work/work-6-fullimg.png"
+  },
+  {
+    "category": "React",
+    "link": "https://amikevadiya.github.io/googlepixel/",
+    "imageSrc": "assets/images/work/work-31.png",
+    "altText": "Google Pixel",
+    "title": "Google Pixel"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://www.allinfuncasino.com.au/",
+    "imageSrc": "assets/images/work/work-1.png",
+    "altText": "work",
+    "title": "All in fun casino"
+  },{
+    "category": "Web Design | WordPress",
+    "link": "https://www.theguardiansofpeace.com/",
+    "imageSrc": "assets/images/work/work-4.png",
+    "altText": "work",
+    "title": "The guardians of peace"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://nextnous.com/",
+    "imageSrc": "assets/images/work/work-3.png",
+    "altText": "work",
+    "title": "Nextnous"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-22.png",
+    "altText": "Food delivery mobile appo",
+    "title": "Food delivery mobile appo",
+    "Fullimg" :"assets/images/work/work-22-fullimg.png"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://elizabethfrazao.com/",
+    "imageSrc": "assets/images/work/work-9.png",
+    "altText": "Figma",
+    "title": "Elizabeth frazao : Makeup Artist "
+  },
+  {
+    "category": "Logo",
+    "imageSrc": "assets/images/work/work-23.png",
+    "altText": "Logo",
+    "title": "Aaka Frame",
+    "Fullimg" :"assets/images/work/work-23-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-25.png",
+    "altText": "work",
+    "title": "Profile Maker story template  mobile app",
+    "Fullimg" :"assets/images/work/work-25-fullimg.png"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://www.deececollective.com/",
+    "imageSrc": "assets/images/work/work-7.png",
+    "altText": "work",
+    "title": "Deece collective"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-14.png",
+    "altText": "work",
+    "title": "Task Dashbord",
+    "Fullimg" :"assets/images/work/work-14-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-2.png",
+    "altText": "work",
+    "title": "Travel agency landing page",
+    "Fullimg" :"assets/images/work/work-2-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-24.png",
+    "altText": "work",
+    "title": " Furniture e-commerce website",
+    "Fullimg" :"assets/images/work/work-24-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-8.png",
+    "altText": "work",
+    "title": "Instagram story template",
+    "Fullimg" :"assets/images/work/work-8-fullimg.png"
+  },
+  {
+    "category": "Logo",
+    "imageSrc": "assets/images/work/work-5.png",
+    "altText": "work",
+    "title": "Vidstory Logo",
+    "Fullimg": "assets/images/work/work-5-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-11.png",
+    "altText": "work",
+    "title": "Agency",
+    "Fullimg" :"assets/images/work/work-11-fullimg.png"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "http://www.xlconstructionllc.com/",
+    "imageSrc": "assets/images/work/work-12.png",
+    "altText": "work",
+    "title": "Xl Construction"
+  },
+  {
+    "category": "Logo",
+    "imageSrc": "assets/images/work/work-13.png",
+    "altText": "work",
+    "title": "Unique Baby Names",
+    "Fullimg":"assets/images/work/work-13-fullimg.png"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://specialistdoc.com/",
+    "imageSrc": "assets/images/work/work-15.png",
+    "altText": "specialistdoc",
+    "title": "specialistdoc"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "http://aakruticuttingsystem.com/",
+    "imageSrc": "assets/images/work/work-16.png",
+    "altText": "work",
+    "title": "Aakruti"
+  },
+  {
+    "category": "Logo",
+    "link": "https://nextnous.com/",
+    "imageSrc": "assets/images/work/work-17.png",
+    "altText": "work",
+    "title": "Gujrati Calendar"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://ecreateinfotech.com/",
+    "imageSrc": "assets/images/work/work-21.png",
+    "altText": "work",
+    "title": "Ecreate Infotech"
+  },
+  {
+    "category": "Web Design | WordPress",
+    "link": "https://midnight.ie/",
+    "imageSrc": "assets/images/work/work-26.png",
+    "altText": "work",
+    "title": "Midnight"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-27.png",
+    "altText": "work",
+    "title": "Interset Calculator",
+    "Fullimg":"assets/images/work/work-27-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-28.png",
+    "altText": "work",
+    "title": "IG Profile Story",
+    "Fullimg" :"assets/images/work/work-28-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "imageSrc": "assets/images/work/work-29.png",
+    "altText": "work",
+    "title": "Chat.Me",
+    "Fullimg" :"assets/images/work/work-29-fullimg.png"
+  },
+  {
+    "category": "Figma",
+    "link": "https://nextnous.com/",
+    "imageSrc": "assets/images/work/work-30.png",
+    "altText": "work",
+    "title": "ChatBot Ai",
+    "Fullimg" :"assets/images/work/work-30-fullimg.png"
+  }
+  
+]
