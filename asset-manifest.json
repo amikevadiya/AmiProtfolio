@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/AmiProtfolio/static/css/main.577446f3.css",
+    "main.js": "/AmiProtfolio/static/js/main.d5abdecb.js",
+    "static/js/787.e8c6061e.chunk.js": "/AmiProtfolio/static/js/787.e8c6061e.chunk.js",
+    "static/media/dev.png": "/AmiProtfolio/static/media/dev.cdb4f42815d2c2dd929d.png",
+    "static/media/desgin.png": "/AmiProtfolio/static/media/desgin.8f44875f745e419e2724.png",
+    "static/media/logo.svg": "/AmiProtfolio/static/media/logo.a12cdf2a849d16825b7d7c6c369657c3.svg",
+    "static/media/slick.svg": "/AmiProtfolio/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AmiProtfolio/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AmiProtfolio/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AmiProtfolio/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AmiProtfolio/index.html",
+    "main.577446f3.css.map": "/AmiProtfolio/static/css/main.577446f3.css.map",
+    "main.d5abdecb.js.map": "/AmiProtfolio/static/js/main.d5abdecb.js.map",
+    "787.e8c6061e.chunk.js.map": "/AmiProtfolio/static/js/787.e8c6061e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.577446f3.css",
+    "static/js/main.d5abdecb.js"
+  ]
+}
